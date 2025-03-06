@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+
+	<channel>
+		<title>AuthorAlly</title>
+		<link>https://www.youtube.com/@JQPublishing/podcasts</link>
+		<description>Join us as we dive into the world of writing, publishing, and everything in between. Whether you're an aspiring author, a seasoned writer, or just a book lover, this podcast is your go-to resource for insightful interviews, expert advice, and inspiring stories from the literary community.</description>
+		<language>en-us</language>
+		<itunes:author>Jon Writer</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="https://drive.google.com/file/d/1DFVMyUNEFxLGbHoKKxGjsD5KkAOecc8O/view?usp=sharing"/>
+		<itunes:category text="Arts" />
+			<itunes:category text="Books" />
+		
+	
+
+
+	<item>
+	<title>Episode 1</title>
+	<description>🎙️Dive deep with us as host Jon Writer chats with the incredible Alex Williams, the mastermind behind "For Love and Affection." 🌸 Get the inside scoop on the inspirations, challenges, and triumphs that shaped this heartfelt book. 📚✨ From late-night writing sessions to navigating the publishing world, Alex shares it all! Don't miss out—hit play now and be inspired! ❤️</description>
+	<enclosure url="https://drive.google.com/file/d/1rJsy_rBWS0F3aQNBSmIvvAYGKUULQPi3/view?usp=sharing" length="29:18" type="audio/mpeg" />
+	<guid>20250301</guid>
+	<pubDate>Fri, 07 Mar 2025 08:00:00 CST</pubDate>
+	<itunes:duration>29:18</itunes:duration>
+</item>
+</channel>
+</rss>
