@@ -5,8 +5,9 @@
 		<title>AuthorAlly</title>
 		<link>https://youtube.com/playlist?list=PLCBC3h8dpgmmPliIMSaKvwPZwGQZfqpKP&si=7Xbzp3eYTvYB-opG</link>
 		<description>Join us as we dive into the world of writing, publishing, and everything in between. Whether you're an aspiring author, a seasoned writer, or just a book lover, this podcast is your go-to resource for insightful interviews, expert advice, and inspiring stories from the literary community.</description>
+		<itunes:summary>THis podcast, AuthorAlly, explores authors and their books in dept with insightful conversations and analyses.</itunes:summary>
 		<language>en-us</language>
-		<season>Season 1</season>
+		<itunes:season>Season 1</itunes:season>
 		<itunes:author>Jon Writer</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="https://ia801509.us.archive.org/25/items/author-ally-episode-1/AuthorAlly%20Podcast_Large.jpg"/>
@@ -19,7 +20,8 @@
 	<item>
 	<title>Episode 1</title>
 	<description>🎙️Dive deep with us as host Jon Writer chats with the incredible Alex Williams, the mastermind behind "For Love and Affection." 🌸 Get the inside scoop on the inspirations, challenges, and triumphs that shaped this heartfelt book. 📚✨ From late-night writing sessions to navigating the publishing world, Alex shares it all! Don't miss out—hit play now and be inspired! ❤️</description>
-	<enclosure url="https://ia801509.us.archive.org/25/items/author-ally-episode-1/AuthorAlly_Episode%201.mp3" length="29:18" type="audio/mpeg" />
+	<itunes:summary>Author Alex Williams, of "For Love & Affection", drops in to talk about her book.</itunes:summary>
+		<enclosure url="https://ia801509.us.archive.org/25/items/author-ally-episode-1/AuthorAlly_Episode%201.mp3" length="29:18" type="audio/mpeg" />
 	<guid>20250301</guid>
 	<pubDate>Sat, 01 Mar 2025 04:00:00 CST</pubDate>
 	<itunes:duration>29:18</itunes:duration>
