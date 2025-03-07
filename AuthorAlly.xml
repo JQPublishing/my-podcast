@@ -3,7 +3,7 @@
 
 	<channel>
 		<title>AuthorAlly</title>
-		<link>https://www.youtube.com/@JQPublishing/podcasts</link>
+		<link>https://youtube.com/playlist?list=PLCBC3h8dpgmmPliIMSaKvwPZwGQZfqpKP&si=7Xbzp3eYTvYB-opG</link>
 		<description>Join us as we dive into the world of writing, publishing, and everything in between. Whether you're an aspiring author, a seasoned writer, or just a book lover, this podcast is your go-to resource for insightful interviews, expert advice, and inspiring stories from the literary community.</description>
 		<language>en-us</language>
 		<season>Season 1</season>
@@ -11,7 +11,7 @@
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="https://ia801509.us.archive.org/25/items/author-ally-episode-1/AuthorAlly%20Podcast_Large.jpg"/>
 		<itunes:category text="Arts" />
-			
+			</itunes:category>
 		
 	
 
