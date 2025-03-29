@@ -16,7 +16,20 @@
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="https://ia801509.us.archive.org/25/items/author-ally-episode-1/AuthorAlly%20Podcast_Large.jpg"/>
 		<itunes:category text="Arts"/> 
-
+		
+		<!-- Below is Episode 5 -->
+<item>
+	<title>Episode 5 feat. L.J.P. Guo</title>
+	<link>https://youtu.be/reDb5ABE-kU</link>
+	<description>✨Brace yourself for a magical journey in AuthorAlly Episode 5! ✨ 🖋️ We’re diving into the mesmerizing medieval fantasy world of "The Blade That Cut The Moue's Tail" 🗡️🐁 with its ingenious creator, L.J.P. Guo from Frankfurt, Germany. 🌟 Hear all about her inspirations, the creative process behind breathing life into her story, and the intricate realm she's crafted with passion and imagination. 🎥 Whether you’re a budding writer, a lover of fantasy, or just curious, this episode will ignite your creativity and transport you to another world. 🌍 Don’t miss out—hit play now! 🎬📖🔥</description>
+	<itunes:summary>Discover the magic of AuthorAlly Episode 5 as L.J.P. Guo from Frankfurt, Germany unveils the medieval fantasy world of "The Blade That Cut The Moue's Tail." Explore her creative process, inspirations, and the captivating realm she's built with imagination and passion. Perfect for aspiring writers, fantasy enthusiasts, or the creatively curious—this episode is a must-listen!</itunes:summary>
+		<enclosure url="https://ia801207.us.archive.org/31/items/author-ally-episode-5/AuthorAlly_Episode%205.mp3" length="43:57" type="audio/mpeg" />
+	<guid>20250329</guid>
+	<pubDate>Sat, 29 Mar 2025 09:00:00 CST</pubDate>
+	<itunes:duration>43:57</itunes:duration>
+</item>
+		
+		
 		<!-- Below is Episode 4 -->
 		<item>
 	<title>Episode 4 feat. Stanley Livingstone</title>
