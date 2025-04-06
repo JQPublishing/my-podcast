@@ -18,6 +18,17 @@
 		<itunes:category text="Arts"/> 
 		
 		<!-- Below is Episode 5 -->
+		<item>
+	<title>Episode 6 feat. Daniel C. Rodgers</title>
+	<link>https://youtu.be/Hw_XSNK9w6Y</link>
+	<description>🚀💰 In this exciting episode of AuthorAlly, we chat with Daniel C. Rodgers, author of "Escape The Clock" 📚, the ultimate guide to achieving financial independence! With 20 years of research, Daniel shares how to master income, taxes, wealth, and passive income, while also diving into the life-changing journey that inspired him to write this book 🌟. From how these strategies transformed his own life to his plans for retirement, this episode is packed with wisdom and inspiration to help you take control of your financial future 💡✨.</description>
+	<itunes:summary>In this episode of AuthorAlly, Daniel C. Rodgers, author of "Escape The Clock," shares insights on achieving financial independence. Backed by 20 years of research, Daniel explores strategies for mastering income, taxes, wealth, and passive income, while reflecting on the personal journey that led to the book. Learn how these methods reshaped his life and his retirement plans, offering valuable tools to help you seize control of your financial future.</itunes:summary>
+		<enclosure url="https://ia601802.us.archive.org/5/items/author-ally-podcast-large/AuthorAlly_Episode%206_Audio.mp3" length="48:05" type="audio/mpeg" />
+	<guid>20250405</guid>
+	<pubDate>Sat, 05 Apr 2025 01:00:00 CST</pubDate>
+	<itunes:duration>48:05</itunes:duration>
+</item>
+		<!-- Below is Episode 6 -->
 <item>
 	<title>Episode 5 feat. L.J.P. Guo</title>
 	<link>https://youtu.be/Lr2VC4FxO8c</link>
