@@ -16,9 +16,23 @@
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="https://ia801509.us.archive.org/25/items/author-ally-episode-1/AuthorAlly%20Podcast_Large.jpg"/>
 		<itunes:category text="Arts"/> 
+
+		<!-- Below is Episode 7 -->
+<item>
+	<title>Episode 7 feat. N.E. White</title>
+	<link>https://youtu.be/FrLoOO3Xy0Q</link>
+	<description>✨ AuthorAlly Episode 7 is here! ✨ Join me as I sit down with N.E. White, the brilliant mind behind Mapmaker, a gripping fantasy trilogy that’s packed with mythological inspiration, high-stakes adventures, and unforgettable characters. 🗺️📖 We dive into the story of Aleeya, a winged mapmaker fighting for freedom and self-discovery, and hear all about the creative journey and inspiration behind this masterpiece. If you love epic tales, rich world-building, and the magic of storytelling, you won’t want to miss this conversation! 🪶🌟</description>
+	<itunes:summary>AuthorAlly Episode 7 features an insightful conversation with N.E. White, the author of Mapmaker, a captivating fantasy trilogy rich with mythological inspiration, thrilling adventures, and memorable characters. We explore the story of Aleeya, a winged mapmaker on a journey of freedom and self-discovery, and discuss the creative process and inspirations behind this extraordinary work. Fans of epic tales, intricate world-building, and compelling storytelling will find this episode particularly engaging.
+	</itunes:summary>
+		<enclosure url="https://ia600506.us.archive.org/32/items/author-ally-episode-2-audio_202504/AuthorAlly_Episode%202%20Audio.mp3" length="35:47" type="audio/mpeg" />
+	<guid>20250412</guid>
+	<pubDate>Sat, 12 Apr 2025 01:00:00 CST</pubDate>
+	<itunes:duration>35:47</itunes:duration>
+</item>
+
 		
-		<!-- Below is Episode 5 -->
-		<item>
+		<!-- Below is Episode 6 -->
+<item>
 	<title>Episode 6 feat. Daniel C. Rodgers</title>
 	<link>https://youtu.be/Hw_XSNK9w6Y</link>
 	<description>🚀💰 In this exciting episode of AuthorAlly, we chat with Daniel C. Rodgers, author of "Escape The Clock" 📚, the ultimate guide to achieving financial independence! With 20 years of research, Daniel shares how to master income, taxes, wealth, and passive income, while also diving into the life-changing journey that inspired him to write this book 🌟. From how these strategies transformed his own life to his plans for retirement, this episode is packed with wisdom and inspiration to help you take control of your financial future 💡✨.</description>
@@ -28,7 +42,9 @@
 	<pubDate>Sat, 05 Apr 2025 01:00:00 CST</pubDate>
 	<itunes:duration>48:05</itunes:duration>
 </item>
-		<!-- Below is Episode 6 -->
+
+		
+		<!-- Below is Episode 5 -->
 <item>
 	<title>Episode 5 feat. L.J.P. Guo</title>
 	<link>https://youtu.be/Lr2VC4FxO8c</link>
@@ -42,7 +58,8 @@
 		
 		
 		<!-- Below is Episode 4 -->
-		<item>
+		
+<item>
 	<title>Episode 4 feat. Stanley Livingstone</title>
 	<link>https://youtu.be/dAylA9gNWhY</link>
 	<description>🎙️ Join us on this episode of AuthorAlly, were we dive into the mind of Stanley Livingstone, author of "Blueprint of Eternity: Book 1 - The Architect's Deception." 🌌🛠️ Discover the challenges of bringing this sci-fi/fantasy epic to life, and uncover the deeper meanings woven into his breathtaking tale of freedom and fate. 📖✨Don't miss this fascinating conversation! 🔮🔥</description>
@@ -66,6 +83,7 @@
 	<pubDate>Sun, 16 Mar 2025 13:00:00 CST</pubDate>
 	<itunes:duration>23:30</itunes:duration>
 </item>
+
 		
 	<!-- Below is Episode 2 -->
 
@@ -83,7 +101,7 @@
 		
 	<!-- Below is Episode 1 --> 	
 		
-	<item>
+<item>
 	<title>Episode 1 feat. Alex Williams</title>
 	<link>https://www.youtube.com/watch?v=AdIMBLIplHE</link>
 	<description>🎙️Dive deep with us as host Jon Writer chats with the incredible Alex Williams, the mastermind behind "For Love and Affection." 🌸 Get the inside scoop on the inspirations, challenges, and triumphs that shaped this heartfelt book. 📚✨ From late-night writing sessions to navigating the publishing world, Alex shares it all! Don't miss out—hit play now and be inspired! ❤️</description>
